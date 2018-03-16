@@ -12,4 +12,4 @@ dependencies:
 - requests-toolbelt 0.5.1  `pip install requests-toolbelt`
 
 
-***Configuraion above has been tested, don't know about other configs***
+***Configuration above has been tested, don't know about other configs***
