@@ -3,10 +3,13 @@ A small decorator to dump request and response
 
 Language:
 
-- Python
+- Python 2.7.6
 
 dependencies:
 
-- requests  `pip install requests`
+- requests 2.6.2  `pip install requests`
 
-- requests-toolbelt  `pip install requests-toolbelt`
+- requests-toolbelt 0.5.1  `pip install requests-toolbelt`
+
+
+***Configuraion above has been tested, don't know about other configs***
